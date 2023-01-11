@@ -1,5 +1,6 @@
 {
   "name": "staging_acquirer",
+  "homepage": "https://klim0o0.github.io/staging_acquirer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
